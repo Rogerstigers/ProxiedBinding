@@ -1,0 +1,602 @@
+﻿[
+	{
+		"Company": "Chami",
+		"Department": "Sales and Marketing",
+		"AverageSalary": "32543.51",
+		"NumberOfEmployees": 682
+	},
+	{
+		"Company": "Sibelius",
+		"Department": "Research and Development",
+		"AverageSalary": "83610.61",
+		"NumberOfEmployees": 244
+	},
+	{
+		"Company": "Borland",
+		"Department": "Quality Assurance",
+		"AverageSalary": "48764.26",
+		"NumberOfEmployees": 852
+	},
+	{
+		"Company": "Adobe",
+		"Department": "Accounting",
+		"AverageSalary": "51471.90",
+		"NumberOfEmployees": 716
+	},
+	{
+		"Company": "Microsoft",
+		"Department": "Research and Development",
+		"AverageSalary": "93736.00",
+		"NumberOfEmployees": 230
+	},
+	{
+		"Company": "Adobe",
+		"Department": "Tech Support",
+		"AverageSalary": "75606.50",
+		"NumberOfEmployees": 186
+	},
+	{
+		"Company": "Google",
+		"Department": "Advertising",
+		"AverageSalary": "50015.33",
+		"NumberOfEmployees": 468
+	},
+	{
+		"Company": "Sibelius",
+		"Department": "Legal Department",
+		"AverageSalary": "96928.34",
+		"NumberOfEmployees": 597
+	},
+	{
+		"Company": "Finale",
+		"Department": "Public Relations",
+		"AverageSalary": "03390.71",
+		"NumberOfEmployees": 615
+	},
+	{
+		"Company": "Microsoft",
+		"Department": "Media Relations",
+		"AverageSalary": "38744.69",
+		"NumberOfEmployees": 76
+	},
+	{
+		"Company": "Chami",
+		"Department": "Quality Assurance",
+		"AverageSalary": "49658.56",
+		"NumberOfEmployees": 371
+	},
+	{
+		"Company": "Chami",
+		"Department": "Research and Development",
+		"AverageSalary": "63325.01",
+		"NumberOfEmployees": 854
+	},
+	{
+		"Company": "Lycos",
+		"Department": "Customer Relations",
+		"AverageSalary": "27016.15",
+		"NumberOfEmployees": 374
+	},
+	{
+		"Company": "Sibelius",
+		"Department": "Public Relations",
+		"AverageSalary": "91138.96",
+		"NumberOfEmployees": 200
+	},
+	{
+		"Company": "Adobe",
+		"Department": "Tech Support",
+		"AverageSalary": "20915.53",
+		"NumberOfEmployees": 625
+	},
+	{
+		"Company": "Cakewalk",
+		"Department": "Research and Development",
+		"AverageSalary": "48149.67",
+		"NumberOfEmployees": 380
+	},
+	{
+		"Company": "Yahoo",
+		"Department": "Quality Assurance",
+		"AverageSalary": "82753.19",
+		"NumberOfEmployees": 914
+	},
+	{
+		"Company": "Chami",
+		"Department": "Accounting",
+		"AverageSalary": "71956.16",
+		"NumberOfEmployees": 100
+	},
+	{
+		"Company": "Altavista",
+		"Department": "Tech Support",
+		"AverageSalary": "36764.38",
+		"NumberOfEmployees": 612
+	},
+	{
+		"Company": "Apple Systems",
+		"Department": "Asset Management",
+		"AverageSalary": "77219.33",
+		"NumberOfEmployees": 550
+	},
+	{
+		"Company": "Adobe",
+		"Department": "Accounting",
+		"AverageSalary": "98920.72",
+		"NumberOfEmployees": 583
+	},
+	{
+		"Company": "Google",
+		"Department": "Human Resources",
+		"AverageSalary": "45240.17",
+		"NumberOfEmployees": 890
+	},
+	{
+		"Company": "Sibelius",
+		"Department": "Legal Department",
+		"AverageSalary": "77406.81",
+		"NumberOfEmployees": 695
+	},
+	{
+		"Company": "Macromedia",
+		"Department": "Customer Service",
+		"AverageSalary": "10365.76",
+		"NumberOfEmployees": 139
+	},
+	{
+		"Company": "Yahoo",
+		"Department": "Legal Department",
+		"AverageSalary": "97455.99",
+		"NumberOfEmployees": 180
+	},
+	{
+		"Company": "Cakewalk",
+		"Department": "Human Resources",
+		"AverageSalary": "71231.15",
+		"NumberOfEmployees": 933
+	},
+	{
+		"Company": "Lavasoft",
+		"Department": "Finances",
+		"AverageSalary": "30513.12",
+		"NumberOfEmployees": 795
+	},
+	{
+		"Company": "Chami",
+		"Department": "Payroll",
+		"AverageSalary": "09448.92",
+		"NumberOfEmployees": 536
+	},
+	{
+		"Company": "Chami",
+		"Department": "Asset Management",
+		"AverageSalary": "70010.49",
+		"NumberOfEmployees": 85
+	},
+	{
+		"Company": "Microsoft",
+		"Department": "Asset Management",
+		"AverageSalary": "94902.51",
+		"NumberOfEmployees": 166
+	},
+	{
+		"Company": "Altavista",
+		"Department": "Sales and Marketing",
+		"AverageSalary": "45657.32",
+		"NumberOfEmployees": 579
+	},
+	{
+		"Company": "Chami",
+		"Department": "Payroll",
+		"AverageSalary": "94342.38",
+		"NumberOfEmployees": 946
+	},
+	{
+		"Company": "Google",
+		"Department": "Legal Department",
+		"AverageSalary": "56400.11",
+		"NumberOfEmployees": 325
+	},
+	{
+		"Company": "Cakewalk",
+		"Department": "Finances",
+		"AverageSalary": "52444.46",
+		"NumberOfEmployees": 871
+	},
+	{
+		"Company": "Macromedia",
+		"Department": "Research and Development",
+		"AverageSalary": "20223.12",
+		"NumberOfEmployees": 661
+	},
+	{
+		"Company": "Adobe",
+		"Department": "Human Resources",
+		"AverageSalary": "29019.56",
+		"NumberOfEmployees": 959
+	},
+	{
+		"Company": "Apple Systems",
+		"Department": "Customer Service",
+		"AverageSalary": "76196.23",
+		"NumberOfEmployees": 386
+	},
+	{
+		"Company": "Apple Systems",
+		"Department": "Asset Management",
+		"AverageSalary": "08563.76",
+		"NumberOfEmployees": 99
+	},
+	{
+		"Company": "Sibelius",
+		"Department": "Advertising",
+		"AverageSalary": "63739.45",
+		"NumberOfEmployees": 264
+	},
+	{
+		"Company": "Apple Systems",
+		"Department": "Asset Management",
+		"AverageSalary": "20859.71",
+		"NumberOfEmployees": 214
+	},
+	{
+		"Company": "Borland",
+		"Department": "Public Relations",
+		"AverageSalary": "87274.43",
+		"NumberOfEmployees": 506
+	},
+	{
+		"Company": "Sibelius",
+		"Department": "Legal Department",
+		"AverageSalary": "26952.01",
+		"NumberOfEmployees": 306
+	},
+	{
+		"Company": "Microsoft",
+		"Department": "Advertising",
+		"AverageSalary": "03913.76",
+		"NumberOfEmployees": 80
+	},
+	{
+		"Company": "Yahoo",
+		"Department": "Finances",
+		"AverageSalary": "32298.18",
+		"NumberOfEmployees": 67
+	},
+	{
+		"Company": "Sibelius",
+		"Department": "Media Relations",
+		"AverageSalary": "03367.47",
+		"NumberOfEmployees": 273
+	},
+	{
+		"Company": "Chami",
+		"Department": "Customer Relations",
+		"AverageSalary": "75604.78",
+		"NumberOfEmployees": 411
+	},
+	{
+		"Company": "Macromedia",
+		"Department": "Human Resources",
+		"AverageSalary": "59349.87",
+		"NumberOfEmployees": 940
+	},
+	{
+		"Company": "Apple Systems",
+		"Department": "Payroll",
+		"AverageSalary": "35330.14",
+		"NumberOfEmployees": 291
+	},
+	{
+		"Company": "Apple Systems",
+		"Department": "Tech Support",
+		"AverageSalary": "45837.15",
+		"NumberOfEmployees": 344
+	},
+	{
+		"Company": "Apple Systems",
+		"Department": "Quality Assurance",
+		"AverageSalary": "53341.13",
+		"NumberOfEmployees": 455
+	},
+	{
+		"Company": "Chami",
+		"Department": "Quality Assurance",
+		"AverageSalary": "42861.83",
+		"NumberOfEmployees": 415
+	},
+	{
+		"Company": "Lavasoft",
+		"Department": "Accounting",
+		"AverageSalary": "49684.33",
+		"NumberOfEmployees": 799
+	},
+	{
+		"Company": "Altavista",
+		"Department": "Legal Department",
+		"AverageSalary": "52467.99",
+		"NumberOfEmployees": 478
+	},
+	{
+		"Company": "Chami",
+		"Department": "Accounting",
+		"AverageSalary": "56060.66",
+		"NumberOfEmployees": 584
+	},
+	{
+		"Company": "Sibelius",
+		"Department": "Accounting",
+		"AverageSalary": "50279.81",
+		"NumberOfEmployees": 662
+	},
+	{
+		"Company": "Cakewalk",
+		"Department": "Finances",
+		"AverageSalary": "77886.26",
+		"NumberOfEmployees": 653
+	},
+	{
+		"Company": "Apple Systems",
+		"Department": "Human Resources",
+		"AverageSalary": "11438.86",
+		"NumberOfEmployees": 485
+	},
+	{
+		"Company": "Lycos",
+		"Department": "Finances",
+		"AverageSalary": "31200.50",
+		"NumberOfEmployees": 899
+	},
+	{
+		"Company": "Adobe",
+		"Department": "Human Resources",
+		"AverageSalary": "46699.42",
+		"NumberOfEmployees": 366
+	},
+	{
+		"Company": "Sibelius",
+		"Department": "Media Relations",
+		"AverageSalary": "00251.57",
+		"NumberOfEmployees": 781
+	},
+	{
+		"Company": "Cakewalk",
+		"Department": "Customer Relations",
+		"AverageSalary": "98548.07",
+		"NumberOfEmployees": 349
+	},
+	{
+		"Company": "Finale",
+		"Department": "Customer Service",
+		"AverageSalary": "57237.55",
+		"NumberOfEmployees": 507
+	},
+	{
+		"Company": "Macromedia",
+		"Department": "Advertising",
+		"AverageSalary": "32495.03",
+		"NumberOfEmployees": 838
+	},
+	{
+		"Company": "Chami",
+		"Department": "Quality Assurance",
+		"AverageSalary": "60303.24",
+		"NumberOfEmployees": 560
+	},
+	{
+		"Company": "Google",
+		"Department": "Finances",
+		"AverageSalary": "87698.69",
+		"NumberOfEmployees": 574
+	},
+	{
+		"Company": "Borland",
+		"Department": "Payroll",
+		"AverageSalary": "84306.08",
+		"NumberOfEmployees": 791
+	},
+	{
+		"Company": "Google",
+		"Department": "Accounting",
+		"AverageSalary": "96128.92",
+		"NumberOfEmployees": 402
+	},
+	{
+		"Company": "Cakewalk",
+		"Department": "Research and Development",
+		"AverageSalary": "29498.91",
+		"NumberOfEmployees": 54
+	},
+	{
+		"Company": "Cakewalk",
+		"Department": "Asset Management",
+		"AverageSalary": "86626.13",
+		"NumberOfEmployees": 892
+	},
+	{
+		"Company": "Adobe",
+		"Department": "Tech Support",
+		"AverageSalary": "38312.30",
+		"NumberOfEmployees": 683
+	},
+	{
+		"Company": "Google",
+		"Department": "Research and Development",
+		"AverageSalary": "75980.55",
+		"NumberOfEmployees": 257
+	},
+	{
+		"Company": "Finale",
+		"Department": "Asset Management",
+		"AverageSalary": "61084.34",
+		"NumberOfEmployees": 239
+	},
+	{
+		"Company": "Lavasoft",
+		"Department": "Sales and Marketing",
+		"AverageSalary": "40228.69",
+		"NumberOfEmployees": 388
+	},
+	{
+		"Company": "Sibelius",
+		"Department": "Tech Support",
+		"AverageSalary": "80379.32",
+		"NumberOfEmployees": 863
+	},
+	{
+		"Company": "Google",
+		"Department": "Human Resources",
+		"AverageSalary": "50723.51",
+		"NumberOfEmployees": 774
+	},
+	{
+		"Company": "Adobe",
+		"Department": "Human Resources",
+		"AverageSalary": "88341.29",
+		"NumberOfEmployees": 465
+	},
+	{
+		"Company": "Yahoo",
+		"Department": "Quality Assurance",
+		"AverageSalary": "80434.94",
+		"NumberOfEmployees": 382
+	},
+	{
+		"Company": "Google",
+		"Department": "Public Relations",
+		"AverageSalary": "74964.98",
+		"NumberOfEmployees": 757
+	},
+	{
+		"Company": "Altavista",
+		"Department": "Tech Support",
+		"AverageSalary": "22404.05",
+		"NumberOfEmployees": 917
+	},
+	{
+		"Company": "Google",
+		"Department": "Legal Department",
+		"AverageSalary": "97523.14",
+		"NumberOfEmployees": 834
+	},
+	{
+		"Company": "Lycos",
+		"Department": "Customer Relations",
+		"AverageSalary": "61567.85",
+		"NumberOfEmployees": 523
+	},
+	{
+		"Company": "Yahoo",
+		"Department": "Media Relations",
+		"AverageSalary": "85435.38",
+		"NumberOfEmployees": 935
+	},
+	{
+		"Company": "Finale",
+		"Department": "Research and Development",
+		"AverageSalary": "54440.03",
+		"NumberOfEmployees": 540
+	},
+	{
+		"Company": "Sibelius",
+		"Department": "Customer Service",
+		"AverageSalary": "88001.03",
+		"NumberOfEmployees": 185
+	},
+	{
+		"Company": "Lycos",
+		"Department": "Quality Assurance",
+		"AverageSalary": "30419.64",
+		"NumberOfEmployees": 613
+	},
+	{
+		"Company": "Adobe",
+		"Department": "Finances",
+		"AverageSalary": "62520.40",
+		"NumberOfEmployees": 951
+	},
+	{
+		"Company": "Adobe",
+		"Department": "Quality Assurance",
+		"AverageSalary": "43178.50",
+		"NumberOfEmployees": 892
+	},
+	{
+		"Company": "Finale",
+		"Department": "Sales and Marketing",
+		"AverageSalary": "73168.04",
+		"NumberOfEmployees": 406
+	},
+	{
+		"Company": "Lycos",
+		"Department": "Accounting",
+		"AverageSalary": "52119.31",
+		"NumberOfEmployees": 768
+	},
+	{
+		"Company": "Finale",
+		"Department": "Advertising",
+		"AverageSalary": "52350.10",
+		"NumberOfEmployees": 568
+	},
+	{
+		"Company": "Adobe",
+		"Department": "Quality Assurance",
+		"AverageSalary": "47868.16",
+		"NumberOfEmployees": 680
+	},
+	{
+		"Company": "Borland",
+		"Department": "Media Relations",
+		"AverageSalary": "07597.61",
+		"NumberOfEmployees": 554
+	},
+	{
+		"Company": "Finale",
+		"Department": "Quality Assurance",
+		"AverageSalary": "28989.99",
+		"NumberOfEmployees": 797
+	},
+	{
+		"Company": "Finale",
+		"Department": "Customer Relations",
+		"AverageSalary": "81157.03",
+		"NumberOfEmployees": 211
+	},
+	{
+		"Company": "Chami",
+		"Department": "Human Resources",
+		"AverageSalary": "65656.30",
+		"NumberOfEmployees": 516
+	},
+	{
+		"Company": "Lycos",
+		"Department": "Asset Management",
+		"AverageSalary": "98149.74",
+		"NumberOfEmployees": 227
+	},
+	{
+		"Company": "Google",
+		"Department": "Payroll",
+		"AverageSalary": "33195.67",
+		"NumberOfEmployees": 627
+	},
+	{
+		"Company": "Sibelius",
+		"Department": "Sales and Marketing",
+		"AverageSalary": "58201.57",
+		"NumberOfEmployees": 466
+	},
+	{
+		"Company": "Altavista",
+		"Department": "Customer Service",
+		"AverageSalary": "51447.54",
+		"NumberOfEmployees": 707
+	},
+	{
+		"Company": "Finale",
+		"Department": "Finances",
+		"AverageSalary": "62449.01",
+		"NumberOfEmployees": 415
+	}
+]
