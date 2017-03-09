@@ -7,6 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo.csproj", "{EF9
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Content", "Content", "{B4D0F3B1-A543-44BE-BF4B-6C89734D2677}"
 	ProjectSection(SolutionItems) = preProject
+		..\Error.png = ..\Error.png
 		..\license.md = ..\license.md
 		..\README.md = ..\README.md
 	EndProjectSection

@@ -59,7 +59,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="AttachedProperties\BindingProxyAttachedProperty.cs" />
+    <Compile Include="AttachedProperties\BindingProxy.cs" />
     <Compile Include="DelegateCommand.cs" />
     <Compile Include="ViewModels\BindableBase.cs" />
     <Compile Include="ViewModels\MainWindowViewModel.cs" />
